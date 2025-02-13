@@ -45,12 +45,5 @@ Example:
 - matplotlib (for generating charts)
 - os (for file handling)
 
-## File Structure
-cli-based-finance-tracker/
-├── src/
-│   └── financeTracker.py     # Main script for managing expenses
-├── expenses.csv              # File to store the expenses data
-└── README.md                 # Project documentation
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
